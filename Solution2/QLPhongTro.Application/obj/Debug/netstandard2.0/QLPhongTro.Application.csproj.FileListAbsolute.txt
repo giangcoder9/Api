@@ -1,0 +1,12 @@
+D:\QLTroTTCN\Solution2\QLPhongTro.Application\bin\Debug\netstandard2.0\QLPhongTro.Application.deps.json
+D:\QLTroTTCN\Solution2\QLPhongTro.Application\bin\Debug\netstandard2.0\QLPhongTro.Application.dll
+D:\QLTroTTCN\Solution2\QLPhongTro.Application\obj\Debug\netstandard2.0\QLPhongTro.Application.csprojAssemblyReference.cache
+D:\QLTroTTCN\Solution2\QLPhongTro.Application\obj\Debug\netstandard2.0\QLPhongTro.Application.AssemblyInfoInputs.cache
+D:\QLTroTTCN\Solution2\QLPhongTro.Application\obj\Debug\netstandard2.0\QLPhongTro.Application.AssemblyInfo.cs
+D:\QLTroTTCN\Solution2\QLPhongTro.Application\bin\Debug\netstandard2.0\Core.dll
+D:\QLTroTTCN\Solution2\QLPhongTro.Application\bin\Debug\netstandard2.0\QLPhongTro.Application.pdb
+D:\QLTroTTCN\Solution2\QLPhongTro.Application\bin\Debug\netstandard2.0\Core.pdb
+D:\QLTroTTCN\Solution2\QLPhongTro.Application\obj\Debug\netstandard2.0\QLPhongTro.Application.csproj.CopyComplete
+D:\QLTroTTCN\Solution2\QLPhongTro.Application\obj\Debug\netstandard2.0\QLPhongTro.Application.dll
+D:\QLTroTTCN\Solution2\QLPhongTro.Application\obj\Debug\netstandard2.0\QLPhongTro.Application.pdb
+D:\QLTroTTCN\Solution2\QLPhongTro.Application\obj\Debug\netstandard2.0\QLPhongTro.Application.csproj.CoreCompileInputs.cache
